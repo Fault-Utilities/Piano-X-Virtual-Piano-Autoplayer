@@ -10,8 +10,8 @@
 <h1>How To Install</h1>
 <p>You <b>have</b> to install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey</a> at the chrome webstore. You can start with these steps:</p>
 
-1) You first should <a href="">Download TamperMonkey</a> 
-2) And <a href="">Download the script!</a>
+1) You first should <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Download TamperMonkey</a> 
+2) And <a href="https://greasyfork.org/en/scripts/443698-piano-x-qwerty-virtual-piano-autoplayer-pianorhythm-virtualpiano-multiplayer-piano-more">Download the script!</a>
 
 These are the supported piano websites:
 
