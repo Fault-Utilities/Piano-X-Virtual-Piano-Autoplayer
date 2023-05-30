@@ -1,5 +1,8 @@
 <i>By Lapide</i>
 
+## This script does not work as well as it used to anymore, and will not be updated for the time being. The greasyfork page has been deleted, but this page is still up for anyone who decide to improve on it.
+### I might remake this script one day
+
 <p align="center">
   <img  width="200" height="200" src="https://user-images.githubusercontent.com/64395933/163937113-bba26b4f-4c60-42d2-bfb9-c4194929fc76.png">
 </p>
